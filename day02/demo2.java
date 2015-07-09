@@ -1,14 +1,15 @@
-public class exe02 {
+
+public class demo2 {
 
 	/**
 	 * @param args
 	 */
+	//for-each
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		char n = 'l';
-		System.out.println(n);
-		char m = 'жа';
-		System.out.println(m);
+		int [] integers={1,2,3,4};
+		for(int i:integers)
+			System.out.println(i);
 
 	}
 

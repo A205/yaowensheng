@@ -13,3 +13,4 @@ public class exe05 {
 		System.out.println("«Î ‰»Î—°‘Ò£®1-3£©:");
 	}
 }
+

@@ -1,16 +1,21 @@
-public class exe02 {
+
+
+
+public class demo1 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		char n = 'l';
-		System.out.println(n);
-		char m = 'жа';
-		System.out.println(m);
-
+		int i=1;
+	for(;i<=100;i++)
+	{
+		System.out.println(i);
 	}
-
+	
+		
+		}
 }
+
 
